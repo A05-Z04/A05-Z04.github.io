@@ -10,7 +10,7 @@ My GitHub page is http://github.com/A05-Z04.
 
 * Lab 5
 
-    Lab 5, part 1 was my favorite because the lab was an implementation of a sandwich ordering system using command line arguments. It checks for the correct number of arguments and prints out the user's order. Overall, part 1 of lab 5 taugt me about using vectors and command line argument.
+    Lab 5, part 1 was my favorite because the lab was an implementation of a sandwich ordering system using command line arguments. It checks for the correct number of arguments and prints out the user's order. Overall, part 1 of lab 5 taught me about using vectors and command line argument.
 
 * Lab 4
 
